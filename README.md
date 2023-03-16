@@ -13,9 +13,8 @@ profit.
 
 * ### Data Visualization
 
-3. **[Riby Data Set](https://github.com/Oluwabori-Soyele/Projects/blob/main/Oluwabori%20Soyele%20-%20Riby%20Dataset%20Assignment.pdf)
+3. **[Riby Data Set](https://github.com/Oluwabori-Soyele/Projects/blob/main/Oluwabori%20Soyele%20-%20Riby%20Dataset%20Assignment.pdf)**
 This project was completed using Powerbi and PowerPoint to help the Riby’s team with the responsibility to use
 data to help influence the decision of the top leadership on the
- firm.
- A 500,000 data set of previous transactions which represent
- orders across different regions has been provided for further analytics and intelligence using excellent visualization tools.
+firm. A 500,000 data set of previous transactions which represent
+orders across different regions has been provided for further analytics and intelligence using excellent visualization tools.
