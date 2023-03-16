@@ -7,6 +7,6 @@ This project was completed using Powerbi and PowerPoint to analyse the data give
 recovering NGN10 million for a rapidly expanding fintech lender. The data include debtors for more
 than 4 weeks, including information on the loan obtained and repayment details.
 
-2. **[Breweries Data Set]()**
+2. **[Breweries Data Set](https://github.com/Oluwabori-Soyele/Projects/blob/main/breweries%20Analysis%20(Group%206%20Assignment).sql)**
 This project was completed using PostgreSql to analyse the international breweries data recorded for a duration of three years for better decision making in order to maximize
 profit.
