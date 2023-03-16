@@ -27,5 +27,5 @@ This project was completed using jupyter notebook to analyse and visualise the f
 5. **[Titanic Model Decision Tree](https://github.com/Oluwabori-Soyele/Projects/blob/main/Titanic%20model%20Decision%20Tree%20GROUP%206%20(1).ipynb)**
 This project was using Jupiter notebook.
 
-6. **[Mini Group Project - Disease Outbreak]()**
+6. **[Mini Group Project - Disease Outbreak](https://github.com/Oluwabori-Soyele/Projects/blob/main/Group%206%20Mini%20project%20on%20Disease%20Outbreak%20%20(2)%20(1).ipynb)**
 This project was completed using jupyter notebook to analyse and visualise the data given from 2009 - 2018 on diseases outbreak in Nigeria.
