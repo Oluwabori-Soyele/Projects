@@ -18,3 +18,8 @@ This project was completed using Powerbi and PowerPoint to help the Riby’s tea
 data to help influence the decision of the top leadership on the
 firm. A 500,000 data set of previous transactions which represent
 orders across different regions has been provided for further analytics and intelligence using excellent visualization tools.
+
+* ### Machine Learning
+
+4. **[Titanic Model Decision Tree]()
+This project was using Jupiter notebook.
