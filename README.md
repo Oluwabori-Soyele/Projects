@@ -21,5 +21,5 @@ orders across different regions has been provided for further analytics and inte
 
 * ### Machine Learning
 
-4. **[Titanic Model Decision Tree]()
+4. **[Titanic Model Decision Tree](https://github.com/Oluwabori-Soyele/Projects/blob/main/Titanic%20model%20Decision%20Tree%20GROUP%206%20(1).ipynb)**
 This project was using Jupiter notebook.
