@@ -13,7 +13,7 @@ profit.
 
 * ### Data Visualization
 
-3. **[Riby Data Set]()
+3. **[Riby Data Set](https://github.com/Oluwabori-Soyele/Projects/blob/main/Oluwabori%20Soyele%20-%20Riby%20Dataset%20Assignment.pdf)
 This project was completed using Powerbi and PowerPoint to help the Riby’s team with the responsibility to use
 data to help influence the decision of the top leadership on the
  firm.
