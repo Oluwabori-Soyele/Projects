@@ -2,7 +2,7 @@
 My work portfolio
  * ### Data Analysis
 
-1. **[Recovery Data Set]()**
+1. **[Recovery Data Set](https://github.com/Oluwabori-Soyele/Projects/blob/main/Appended%20data%20for%20Recovery.pbix)**
 This project was completed using Powerbi and PowerPoint to analyse the data given for debt recovery by a debt collection team was tasked with
 recovering NGN10 million for a rapidly expanding fintech lender. The data include debtors for more
 than 4 weeks, including information on the loan obtained and repayment details.
