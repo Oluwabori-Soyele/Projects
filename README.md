@@ -19,7 +19,10 @@ data to help influence the decision of the top leadership on the
 firm. A 500,000 data set of previous transactions which represent
 orders across different regions has been provided for further analytics and intelligence using excellent visualization tools.
 
+4. **[Finance Dashboard](https://github.com/Oluwabori-Soyele/Projects/blob/main/Finance%20Dashboard2.pbix)**
+This project was completed using jupyter notebook to analyse and visualise the finance dataset.
+
 * ### Machine Learning
 
-4. **[Titanic Model Decision Tree](https://github.com/Oluwabori-Soyele/Projects/blob/main/Titanic%20model%20Decision%20Tree%20GROUP%206%20(1).ipynb)**
+5. **[Titanic Model Decision Tree](https://github.com/Oluwabori-Soyele/Projects/blob/main/Titanic%20model%20Decision%20Tree%20GROUP%206%20(1).ipynb)**
 This project was using Jupiter notebook.
